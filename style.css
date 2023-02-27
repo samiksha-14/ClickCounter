@@ -141,5 +141,6 @@ input:checked+.slider:before {
 }
 .mode {
     left: 10%;
+    color: burlywood;
 }
 }
