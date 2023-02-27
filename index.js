@@ -9,7 +9,6 @@ count++;
 count_num.innerHTML = count;
 const randomColor = getRandomColor();
 background_col.style.backgroundColor = randomColor;
-audio.play();
 }
 // Function to generate a random color (pastel colors)
 function getRandomColor() {
