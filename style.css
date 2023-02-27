@@ -1,5 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
 
+.mode {
+    font-family: 'Tilt Neon', cursive;
+    position: absolute;
+    display: inline-block;
+    left: 23%;
+    top: 10%;
+}
 .window {
   display: inline-block;
   position: absolute;
@@ -131,5 +138,8 @@ input:checked+.slider:before {
 }
 #count{
   left: 41%;
+}
+.mode {
+    left: 10%;
 }
 }
